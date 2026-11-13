@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="banner.jpg" alt="banner" width="100%" />
+<em>“Let me be that I am and seek not to alter me.”</em>
+<br />
+<sub>— William Shakespeare</sub>
+
+<br />
+
+<img src="/images/ven&apos;s _banner.jpg" alt="banner" width="100%" />
 
 <br />
 
@@ -22,21 +28,5 @@ Building calm, local-first tools — currently **Kairo**.
   <img src="https://img.shields.io/badge/SQLite-6b7280?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Framer_Motion-6b7280?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
-
-<br />
-
----
-
-<br />
-
-**Now**
-<br />
-<sub>
-<a href="https://github.com/hiidonuts/Kairo">Kairo</a> — local AI study companion · notes, flashcards, practice
-</sub>
-
-<br /><br />
-
-<sub>design-minded · ships in public</sub>
 
 </div>

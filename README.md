@@ -14,9 +14,9 @@
 
 <img src="/images/divider-bottom.webp" alt="" />
 
-<br /><br />
+<br />
 
-<img src="/images/tech-intro.svg" alt="Ven's main tech stack, tschüss!" />
+<img src="/images/tech-intro.svg" alt="Ven's fav. tech stack. Tschüss!" />
 
 <br />
 

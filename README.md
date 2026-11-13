@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="/images/ven&apos;s _banner.jpg" alt="banner" />
+<img src="/images/vens-banner.jpeg" alt="banner" />
 
 <br />
 

@@ -6,13 +6,7 @@
 
 <br />
 
-<img src="/images/ven&apos;s _banner.jpg" alt="banner" width="100%" />
-
-<br />
-
-### hiidonuts
-
-Building calm, local-first tools — currently **Kairo**.
+<img src="/images/ven&apos;s _banner.jpg" alt="banner" />
 
 <br />
 

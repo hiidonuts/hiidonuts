@@ -1,14 +1,12 @@
 <div align="center">
 
-<em>“Let me be that I am and seek not to alter me.”</em>
-<br />
-<sub>— William Shakespeare</sub>
+<img src="/images/shakespeare-quote.svg" alt="“Let me be that I am and seek not to alter me.” — William Shakespeare" />
 
 <br />
 
 <img src="/images/ven&apos;s _banner.jpg" alt="banner" />
 
-<br />
+<br /><br />
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-6b7280?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />

@@ -4,7 +4,15 @@
 
 <br />
 
+<img src="/images/divider.png" alt="" />
+
+<br />
+
 <img src="/images/ven&apos;s _banner.jpg" alt="banner" />
+
+<br />
+
+<img src="/images/divider.png" alt="" />
 
 <br /><br />
 

@@ -16,6 +16,10 @@
 
 <br /><br />
 
+<img src="/images/tech-intro.svg" alt="Ven's main tech stack, tschüss!" />
+
+<br />
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-6b7280?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-6b7280?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -25,8 +29,8 @@
 <p>
   <img src="https://img.shields.io/badge/Three.js-6b7280?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Node.js-6b7280?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-6b7280?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Framer_Motion-6b7280?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6b7280?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Rust-6b7280?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
 </div>

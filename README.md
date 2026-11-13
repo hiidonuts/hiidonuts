@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="/images/divider.png" alt="" />
+<img src="/images/divider-top.webp" alt="" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="/images/divider.png" alt="" />
+<img src="/images/divider-bottom.webp" alt="" />
 
 <br /><br />
 
